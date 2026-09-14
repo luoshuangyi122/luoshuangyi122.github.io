@@ -23,7 +23,7 @@ repository               : "luoshuangyi122/luoshuangyi122.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_avatar.jpg"
   name             : "罗双怡"
   pronouns         : # example: "she/her"  
   bio              : "南京大学 新闻学"
