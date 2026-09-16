@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "数据新闻《带货大主播起落风云背后》"
+excerpt: "分析带货大主播行业洗牌趋势"
 collection: portfolio
 ---
 
