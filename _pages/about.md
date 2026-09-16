@@ -42,3 +42,5 @@ redirect_from:
 ------
 - 电话：15078844395
 - 邮箱：502026110008@smail.nju.edu.cn
+
+[点击这里下载我的完整简历 PDF](/files/CV.pdf)
