@@ -1,6 +1,6 @@
 ---
-title: "数据新闻《带货大主播起落风云背后》"
-excerpt: "分析带货大主播行业洗牌趋势"
+title: "《带货大主播起落风云背后》"
+excerpt: "数据新闻"
 collection: portfolio
 ---
 
